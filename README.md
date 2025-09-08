@@ -10,7 +10,7 @@ Fuel client implementation.
 ## Contributing
 
 If you are interested in contributing to Fuel, see our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for coding standards and review process.
-
+2025
 Before pushing any changes or creating pull request please run `source ci_checks.sh`.
 
 ## Building
